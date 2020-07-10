@@ -1,2 +1,3 @@
-# High_Lat_dynamics
-Analysis and models relating to Solitary Islands demographics
+# Solitary Islands coral demographics
+
+R scripts associated with the publication 'The projected degradation of subtropical coral assemblages by recurrent thermal stress'.
